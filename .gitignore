@@ -14,3 +14,5 @@ beautiful-jekyll-theme-*.gem
 
 #pages
 _posts/2020*.md
+README_original.md
+assets/img/*.png
