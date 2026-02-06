@@ -23,9 +23,9 @@ url: kohsahara.github.io
 
 navbar-links:
   Profile: "profile"
-  # Resources:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Links:
+   - X (Twitter): "https://x.com/koh_sahara"
+   - note: "https://note.com/kohsahara"
   # Author's home: "https://deanattali.com"
 
 ################
@@ -52,11 +52,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "SaharaKoh@gmail.com"
+  email: "saharakoh@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: 
 #  github: 
-  twitter: Kohblack18
+  twitter: koh_sahara
   note: kohsahara
 #  patreon: 
 #  youtube: 
