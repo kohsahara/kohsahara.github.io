@@ -22,8 +22,8 @@ author: Koh Sahara
 navbar-links:
   Profile: "profile"
   Links:
-   - X: "https://x.com/koh_sahara"
-   - note: "https://note.com/kohsahara"
+    - X: "https://x.com/koh_sahara"
+    - note: "https://note.com/kohsahara"
   # Author's home: "https://deanattali.com"
 
 ################

@@ -37,5 +37,5 @@ subtitle: わたしのこと
 ***** 
 
 ### Links
-[X (Twitter)](https://x.com/koh_sahara): 日々の呟きです。記録のために読了ポストをしたりしています。
-[note](https://note.com/kohsahara): まとまった文章を投稿しています。読んだ本の感想、旅先での思い出、随想のような日記を投稿しています。
+- [X (Twitter)](https://x.com/koh_sahara): 日々の呟きです。記録のために読了ポストをしたりしています。
+- [note](https://note.com/kohsahara): まとまった文章を投稿しています。読んだ本の感想、旅先での思い出、随想のような日記を投稿しています。
