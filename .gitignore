@@ -14,6 +14,7 @@ beautiful-jekyll-theme-*.gem
 
 #pages
 _posts/2020*.md
+_posts/docs/2020*.html
 README_original.md
 assets/img/*.png
 assets/img/crepe.jpg
